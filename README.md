@@ -54,7 +54,7 @@ Stores my details in PHP variables and displays them in an HTML table.
 
 **Output:**
 
-![Q1 Output](ouput/Profile.png)
+![Q1 Output](output/Profile.png)
 
 ---
 
@@ -67,7 +67,7 @@ Defines a `$student` array of associative arrays (name, program, age) for three 
 
 **Output:**
 
-![Q2 Output](ouput/Profile_student.png)
+![Q2 Output](output/Profile_student.png)
 
 ---
 
@@ -85,7 +85,7 @@ The result is printed inside an `<h1>` heading using `echo`.
 
 **Output:**
 
-![Q3 Output](ouput/Area_of_Rectangle.png)
+![Q3 Output](output/Area_of_Rectangle.png)
 
 ---
 
